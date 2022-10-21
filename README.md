@@ -9,7 +9,7 @@
 ## How to run the code
 1. Clone/download the repository
 2. Install the requirements present in the requirements.txt using pip install -r requirements.txt
-3. Run the app using streamlit run app.py
+3. Run the app using streamlit run insurance_app.py
 
 ## Dataset
 1. The dataset is downloaded from kaggle https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
